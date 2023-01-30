@@ -1,0 +1,27 @@
+  
+  .morph-section {
+    width: 100px;
+    height: 100px;
+  
+    position: absolute;
+    left: 16%;
+    top: 45%;
+    margin-top: -200px;
+    margin-left: -200px;
+    font-family: monospace;
+    color: #fff;
+  }
+  
+  .info {
+    font-family: monospace;
+    position: absolute;
+    line-height: 20px;
+    font-size: 14px;
+    left: 20px;
+    bottom: 20px;
+    color: #fff;
+  }
+  
+  a {
+    color: #f9f9f9;
+  }
